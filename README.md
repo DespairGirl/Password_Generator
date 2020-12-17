@@ -8,9 +8,9 @@
 
 > Honestly, it was a tough project because there are many ways to go about doing this. But overall, I gained a better understanding of the use of functions,objects,loops,and logic.
 
-[Password Generator Screenshot](Assests/03-javascript-homework-demo.png)
+[Password Generator Screenshot](Assets/03-javascript-homework-demo.png)
 
-[Password Generator Output](Assests/Capture.PNG)
+[Password Generator Output](Assets/Capture.PNG)
 
 ## The Process
 * Defined variables for input of length,special characters,numeric characters,uppercase and lowercase characters
